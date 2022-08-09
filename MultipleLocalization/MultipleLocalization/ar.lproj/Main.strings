@@ -1,0 +1,12 @@
+
+/* Class = "UIButton"; configuration.title = "Button"; ObjectID = "10U-bm-mf6"; */
+"10U-bm-mf6.configuration.title" = "عشوائي";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "10U-bm-mf6"; */
+"10U-bm-mf6.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "Fun Fact"; ObjectID = "cC1-Nm-iEw"; */
+"cC1-Nm-iEw.text" = "حقيقة ممتعة";
+
+/* Class = "UILabel"; text = "Fun facts"; ObjectID = "tam-JB-Loe"; */
+"tam-JB-Loe.text" = "Fun facts";
